@@ -1,7 +1,6 @@
 # simple-crud
 
-PHP Native
-Data Karyawan
+PHP Native : Data Karyawan
 - Create
 - Read
 - Update
